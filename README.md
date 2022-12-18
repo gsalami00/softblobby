@@ -17,4 +17,4 @@ A ZSH theme for people who love unicorns, pink, and purple.
 ZSH_THEME = "softblobby"
 ```
 
-4. Run `source ~/.zshrc` after saving the file with the new theme.
+4. Run `source ~/.zshrc` after saving the file with the new theme and restart your terminal.
